@@ -1,6 +1,7 @@
 {
-  "colors" : [
+  "images" : [
     {
+      "filename" : "movie-poster-placeholder.svg",
       "idiom" : "universal"
     }
   ],
